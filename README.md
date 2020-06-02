@@ -24,3 +24,4 @@ Sistema para registro y Listado de libros.
 
 ![image](https://user-images.githubusercontent.com/34029133/83553366-b41a5980-a4d0-11ea-902b-cac42bff50ae.png)
 
+#Al momentod e realizar las pruebas no se pudo realizar por falta de tiempo.
